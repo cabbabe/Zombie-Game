@@ -1,5 +1,8 @@
 /// @description Vars
+
+// Variables
 spd = 3;
+hp = 100;
 
 // Keyboard mapping
 keyboard_set_map(ord("A"), vk_left);
